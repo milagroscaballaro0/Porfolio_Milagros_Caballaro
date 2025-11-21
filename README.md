@@ -7,16 +7,26 @@ Soy una persona proactiva, organizada y orientada a resultados, con gran capacid
 Tecnologías y Herramientas:
 
 Frontend: HTML, CSS, JavaScript
+
 Backend: Java, Node.js, Express
+
 Frameworks y Librerías: React
+
 Desarrollo móvil: Kotlin, Android
+
 Bases de datos: MySQL, bases de datos relacionales
+
 ORM y Servidor: Prisma, creación y consumo de APIs, configuración de servidores
+
 Control de versiones: Git y herramientas de trabajo colaborativo
 
 Proyectos:
 
-Aplicaciones móviles, páginas web, aplicaciones full stack
+Aplicaciones móviles
+
+Páginas web
+
+Aplicaciones full stack
 
 Objetivos:
 
