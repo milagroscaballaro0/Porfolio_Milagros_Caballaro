@@ -5,34 +5,32 @@ Aquí encontrarás una selección de mis proyectos más destacados, creados tant
 Soy una persona proactiva, organizada y orientada a resultados, con gran capacidad para trabajar en equipo. Me adapto rápidamente a nuevos desafíos, mantengo una actitud positiva y siempre busco aportar soluciones efectivas que ayuden a cumplir los objetivos.
 
 Tecnologías y Herramientas:
+- Frontend: HTML, CSS, JavaScript
 
-Frontend: HTML, CSS, JavaScript
+- Backend: Java, Node.js, Express
 
-Backend: Java, Node.js, Express
+- Frameworks y Librerías: React
 
-Frameworks y Librerías: React
+- Desarrollo móvil: Kotlin, Android
 
-Desarrollo móvil: Kotlin, Android
+- Bases de datos: MySQL, bases de datos relacionales
 
-Bases de datos: MySQL, bases de datos relacionales
+- ORM y Servidor: Prisma, creación y consumo de APIs, configuración de servidores
 
-ORM y Servidor: Prisma, creación y consumo de APIs, configuración de servidores
-
-Control de versiones: Git y herramientas de trabajo colaborativo
+- Control de versiones: Git y herramientas de trabajo colaborativo
 
 Proyectos:
+- Aplicaciones móviles
 
-Aplicaciones móviles
+- Páginas web
 
-Páginas web
-
-Aplicaciones full stack
+- Aplicaciones full stack
 
 Objetivos:
 
 Seguir desarrollándome en el área tecnológica, fortalecer mis habilidades y participar en proyectos que generen impacto real.
 
 Contacto:
-
 Email: milagroscaballaro0@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/milagros-caballaro
