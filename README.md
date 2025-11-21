@@ -16,9 +16,7 @@ Control de versiones: Git y herramientas de trabajo colaborativo
 
 Proyectos:
 
-Aplicaciones móviles
-Páginas web
-Aplicaciones full stack
+Aplicaciones móviles, páginas web, aplicaciones full stack
 
 Objetivos:
 
