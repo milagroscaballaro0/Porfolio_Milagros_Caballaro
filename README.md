@@ -32,3 +32,5 @@ Contacto:
 Email: milagroscaballaro0@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/milagros-caballaro
+
+CV:[CV Tecnico - Milagros Caballaro  (1).pdf](https://github.com/user-attachments/files/23754575/CV.Tecnico.-.Milagros.Caballaro.1.pdf)
