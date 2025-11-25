@@ -22,9 +22,7 @@ Tecnologías y Herramientas:
 Proyectos:
 - Aplicaciones móviles
 
-- Páginas web
-
-- Aplicaciones full stack
+- Páginas web, full stack (Repo) : https://github.com/milagroscaballaro0/Team-Finder
 
 Objetivos:
 
