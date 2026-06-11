@@ -19,18 +19,27 @@ Tecnologías y Herramientas:
 
 - Control de versiones: Git y herramientas de trabajo colaborativo
 
-Proyectos:
-- Aplicaciones móviles
+- Testing y Calidad de Software: diseño y ejecución de casos de prueba, detección y reporte de errores (bugs), pruebas funcionales, pruebas manuales y documentación de resultados.
 
-- Páginas web, full stack (Repo) : https://github.com/milagroscaballaro0/Team-Finder
+Proyectos:
+- Aplicaciones móviles (Multiplataforma)
+  
+- AnimaOS, Sistema Operativo enfocado a la accesivilidad: https://drive.google.com/drive/folders/19VwDWAk648xE5xnIfBmxfljaZzfhh0QI?usp=drive_link
+  
+- Los Analistas, Sensor de Fertilidad, MicroBit: https://drive.google.com/drive/folders/11R7x2JG8tWWAo8eUMPvT6c_GvC2buVt6?usp=drive_link
+  
+- Team Finder, Páginas web, full stack (Repo) : https://github.com/milagroscaballaro0/Team-Finder
 
 Objetivos:
 
 Seguir desarrollándome en el área tecnológica, fortalecer mis habilidades y participar en proyectos que generen impacto real.
 
 Contacto:
+
 Email: milagroscaballaro0@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/milagros-caballaro
 
-CV: [CV Tecnico - Milagros Caballaro  (1).pdf](https://github.com/user-attachments/files/23754575/CV.Tecnico.-.Milagros.Caballaro.1.pdf)
+CV: [CV - Milagros Caballaro .pdf](https://github.com/user-attachments/files/28817910/CV.-.Milagros.Caballaro.pdf)
+
+
