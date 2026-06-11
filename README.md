@@ -24,7 +24,7 @@ Tecnologías y Herramientas:
 Proyectos:
 - Aplicaciones móviles (Multiplataforma)
   
-- AnimaOS, Sistema Operativo enfocado a la accesivilidad: https://drive.google.com/drive/folders/19VwDWAk648xE5xnIfBmxfljaZzfhh0QI?usp=drive_link
+- AnimaOS, Sistema Operativo enfocado a la accesibilidad: https://drive.google.com/drive/folders/19VwDWAk648xE5xnIfBmxfljaZzfhh0QI?usp=drive_link
   
 - Los Analistas, Sensor de Fertilidad, MicroBit: https://drive.google.com/drive/folders/11R7x2JG8tWWAo8eUMPvT6c_GvC2buVt6?usp=drive_link
   
@@ -50,6 +50,7 @@ Email: milagroscaballaro0@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/milagros-caballaro
 
-CV: [CV - Milagros Caballaro  (2).pdf](https://github.com/user-attachments/files/28818183/CV.-.Milagros.Caballaro.2.pdf)
+CV: [CV - Milagros Caballaro  (3).pdf](https://github.com/user-attachments/files/28819679/CV.-.Milagros.Caballaro.3.pdf)
+
 
 
