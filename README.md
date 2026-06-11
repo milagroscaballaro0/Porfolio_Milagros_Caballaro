@@ -40,6 +40,6 @@ Email: milagroscaballaro0@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/milagros-caballaro
 
-CV: [CV - Milagros Caballaro .pdf](https://github.com/user-attachments/files/28817910/CV.-.Milagros.Caballaro.pdf)
+CV: [CV - Milagros Caballaro  (2).pdf](https://github.com/user-attachments/files/28818183/CV.-.Milagros.Caballaro.2.pdf)
 
 
