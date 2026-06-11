@@ -30,6 +30,16 @@ Proyectos:
   
 - Team Finder, Páginas web, full stack (Repo) : https://github.com/milagroscaballaro0/Team-Finder
 
+Cursos:
+
+- Introducción a Pruebas de Software: <img width="2000" height="1414" alt="Summer academy STB - BT" src="https://github.com/user-attachments/assets/9b1a5098-0034-4d3a-900e-2e8d8af84dab" />
+
+- Diseño para desarrolladores: <img width="2000" height="1414" alt="_Summer academy Diseño para desarrolladores- BT" src="https://github.com/user-attachments/assets/d2fdbcce-ec4f-441e-8889-4558204d71e1" />
+
+-  Desing thinking: <img width="2000" height="1414" alt="Summer academy Dario - BT" src="https://github.com/user-attachments/assets/b55baa89-6722-4f78-a340-bc6925fc7f78" />
+
+
+
 Objetivos:
 
 Seguir desarrollándome en el área tecnológica, fortalecer mis habilidades y participar en proyectos que generen impacto real.
